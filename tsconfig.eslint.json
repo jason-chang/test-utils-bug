@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.node.json",
+  "include": [
+    "serve/**/*.ts",
+    "serve/**/*.vue",
+    "toolkit/**/*.ts",
+    "packages/**/*.ts",
+    "packages/**/*.tsx",
+    "./babel.config.js",
+    "./.eslintrc.js",
+  ],
+}
