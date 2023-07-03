@@ -9,7 +9,7 @@
   </div>
 
   
-  <Case ref="case" />
+  <Case ref="caseRef" />
   
   <button @click="callFn1">Call Fn 1</button>
   <button @click="callFn2Alias">Call Fn 2 Alias</button>
